@@ -1,0 +1,19 @@
+{
+  "name": "create-daisyui",
+  "version": "1.0.0",
+  "description": "Adds daisyUI to your tailwind.config.js file",
+  "author": "Pouya Saadeghi",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "create-daisyui": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@babel/generator": "^7.23.0",
+    "@babel/parser": "^7.23.0",
+    "@babel/traverse": "^7.23.0"
+  }
+}
