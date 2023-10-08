@@ -33,3 +33,9 @@ Or if you use Yarn:
 ```
 yarn create daisyui
 ```
+
+Or if you use pnpm:
+
+```
+pnpm create daisyui
+```
